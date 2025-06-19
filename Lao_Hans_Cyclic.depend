@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1750344717 source:c:\users\athelstan\documents\c++ programs\lao_hans_cyclic\main.cpp
+	<iostream>
+	"cyclic_dfs.h"
+	"cyclic_bfs.h"
+
+1750344897 c:\users\athelstan\documents\c++ programs\lao_hans_cyclic\cyclic_dfs.h
+	<iostream>
+
+1750344717 c:\users\athelstan\documents\c++ programs\lao_hans_cyclic\cyclic_bfs.h
+	<iostream>
+
